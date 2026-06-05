@@ -1,7 +1,7 @@
 # WebPrueba3
 
-Profe sali de ingles llegue a la casa y me di cuenta de mi error del .jon disculpe profesor estaba trabajando con una maqueta que había realizado antes y no fue la mejor idea y lo hice denuevo y un un error que me hago responsable dentro del backend no cree la dependencia npm init -y .json como todo que le meten ia nervioso lo hice a lo últimos 20min y descaradamente profe lo cree mal solo erar mover la carpeta del src a la carpeta de backend :c asumo la responsabilidad pero le pido disculpa y se que es muy tarde profe disculpe .
-Profe por acá actualice el repositorio pero en el aula no profe solo el word.
+- Profe sali de ingles llegue a la casa y me di cuenta de mi error del .jon disculpe profesor estaba trabajando con una maqueta que había realizado antes y no fue la mejor idea y lo hice denuevo y un un error que me hago responsable dentro del backend no cree la dependencia npm init -y .json como todo que le meten ia nervioso lo hice a lo últimos 20min y descaradamente profe lo cree mal solo erar mover la carpeta del src a la carpeta de backend :c asumo la responsabilidad pero le pido disculpa y no em sentia bien se que es muy tarde profe disculpe .
+- Profe por acá actualice el repositorio pero en el aula no disculpe.
 
 # Veterinaria Patitas Felices
 
